@@ -12,7 +12,7 @@ cuss_words = [
     "Jesus Harold Christ", "Jesus H. Christ", "Jesus, Mary and Joseph", "Jesus wept", 
     "kike", "mother fucker", "mother-fucker", "motherfucker", "nigga", "nigra", "nigger",
     "pigfucker","prostitute", "piss", "prick", "pussy","redneck", "shit", "shit ass", "shite", "sibling fucker", 
-    "sisterfuck", "sisterfucker", "slut", "son of a bitch", "son of a whore", "spastic", 
+    "sisterfuck", "sisterfucker", "slut", "son of a bitch", "son of a whore", "spastic", "hello",
     "sweet Jesus", "twat", "wanker", "whore"
 ]
 
